@@ -85,7 +85,7 @@ function startTransitionToSlide() {
    SLIDE IMAGE AUTO
 ================================ */
 
-const images = ["images/a1.jpg", "images/a2.jpg", "images/a3.jpg"];
+const images = ["images/a1.jpg", "images/a2.jpg", "images/a3.jpg", "images/a4.jpg"];
 
 let slideIndex = 0;
 const slideImg = document.getElementById("slideImg");
